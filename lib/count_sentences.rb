@@ -31,5 +31,4 @@ class String
     count
   end
   
-  
 end
