@@ -18,6 +18,6 @@ class String
   end
 
   def count_sentences
-    p self
+    self.split(" ").each do |
   end
 end
