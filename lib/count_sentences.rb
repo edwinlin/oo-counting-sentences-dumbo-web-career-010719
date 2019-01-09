@@ -3,7 +3,6 @@ require 'pry'
 class String
 
   def sentence?
-    p self[-1]
     return true if self[-1] == "."
     false
   end
